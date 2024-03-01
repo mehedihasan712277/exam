@@ -1,2 +1,3 @@
 client-exam/node_modules
 server-exam/node_modules
+server-exam/.env
